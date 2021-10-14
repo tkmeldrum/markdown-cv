@@ -217,7 +217,7 @@ Cooperative project between Metna Co. (Lansing, MI), Rutgers University (Newark,
 
 Oct 2018–Dec 2020
 
-Total funding: $1,000,000. W&M portion: $150,000
+Total funding: $1,000,000. (W&M portion: $150,000)
 
 `2016`
 
@@ -248,42 +248,78 @@ $55,000 
 
 ### Unfunded Grant Proposals
 
-2020	University of St. Andrews Global Fellowship
+`2020`
 
-	Jeffress Trust Award in Interdisciplinary Research
-Development of Single-sided NMR as a Nondestructive Tool to Assess Mechanical Adhesion Strength
-	Total funding: $100,000
+__University of St. Andrews Global Fellowship__
 
-2019	US Air Force Small Business Innovation Research (SBIR)
-Nondestructive Instrument to Determine Composite Surface Activation State in Manufacturing Environment
-	Total funding: $150,000; W&M portion: $35,000
+__Jeffress Trust Award in Interdisciplinary Research__
 
-2018	US Army Small Business Technology Transfer (STTR) Phase I grant.
-		Nondestructive Evaluation of Composite Substrate Below Thick Top-coat Materials
-		Cooperative project between Metna Co. (Lansing, MI) and William & Mary.
-		Total funding: $150,000; W&M portion: $30,000
+_Development of Single-sided NMR as a Nondestructive Tool to Assess Mechanical Adhesion Strength_
 
-2017	National Endowment for the Humanities
-		Investigating the role of solvents and resins in the formation of metal soaps in paint
-		$81,087
-2017	National Science Foundation, CAREER Award
-NMR Measurements of Molecular Diffusion in Membranes
-		$487,911
+Total funding: $100,000
 
-2016	Research Corporation for Science Advancement; Cottrell Scholar Award
-		Understanding the role of solvents and resins in the formation of metal soaps in paint
-		$100,000
+`2019`
 
-2016	National Science Foundation, CAREER Award
-Methods development for single-sided NMR to enable rapid measurement of physical properties
-		$457,195
+__US Air Force Small Business Innovation Research (SBIR)__
 
-2015	National Endowment for the Humanities, Research and Development Tier I Grant
-		Comparing Paint Film Properties of Traditional and Water-mixable Oil Paints
-		$95,560
+_Nondestructive Instrument to Determine Composite Surface Activation State in Manufacturing Environment_
 
-2014	Research Corporation for Science Advancement; Cottrell College Science Award
-Development of T2–D Chemical Sensors for Use with NMR in Low- and Inhomogeneous-fields
+Total funding: $150,000. (W&M portion: $35,000)
+
+`2018`
+__US Army Small Business Technology Transfer (STTR) Phase I Grant__
+
+_Nondestructive Evaluation of Composite Substrate Below Thick Top-coat Materials_
+
+Cooperative project between Metna Co. (Lansing, MI) and William & Mary.
+
+Total funding: $150,000. (W&M portion: $30,000)
+
+`2017`
+
+__National Endowment for the Humanities__
+
+_Investigating the role of solvents and resins in the formation of metal soaps in paint_
+
+$81,087
+
+`2017`
+__National Science Foundation, CAREER Award__
+
+_NMR Measurements of Molecular Diffusion in Membranes_
+
+$487,911
+
+`2016`
+
+__Research Corporation for Science Advancement; Cottrell Scholar Award__
+
+_Understanding the role of solvents and resins in the formation of metal soaps in paint_
+
+$100,000
+
+`2016`
+
+__National Science Foundation, CAREER Award__
+
+_Methods development for single-sided NMR to enable rapid measurement of physical properties_
+
+$457,195
+
+`2015`
+
+__National Endowment for the Humanities, Research and Development Tier I Grant__
+
+_Comparing Paint Film Properties of Traditional and Water-mixable Oil Paints_
+
+$95,560
+
+`2014`
+
+__Research Corporation for Science Advancement; Cottrell College Science Award__
+
+_Development of T<sub>2</sub>–D Chemical Sensors for Use with NMR in Low- and Inhomogeneous-fields_
+
 $55,000 
 
 ## Publications
