@@ -28,7 +28,7 @@ __University of California, Berkeley__
 
 Lawrence Berkeley National Laboratory, Materials Sciences Division; Berkeley, California
 
-Ph.D., Chemistry; Dissertation: _Xenon-based Molecular Sensors in Analytical Applications_
+Ph.D., Chemistry; Dissertation: <i>Xenon-based Molecular Sensors in Analytical Applications</i>
 
 
 `2004–2006`
