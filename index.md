@@ -132,14 +132,14 @@ Deutscher Akademischer Austauschdienst (DAAD) postdoctoral fellowship
 `Chemical Research`
 
 
-{>>
+<!--
 `2021`
 
 CHEM 301 (Physical Chemistry I, 53 students)
 
 CHEM 309L (Instrumental Analysis Laboratory, 10 students)
 
-<!-- Sabbatical (Spring) -->
+Sabbatical (Spring)
 
 `2020`
 
@@ -147,7 +147,7 @@ CHEM 302 (Physical Chemistry II, 59 students)
 
 CHEM 302L (Physical Chemistry Laboratory, 63 students)
 
-<!-- Sabbatical (Fall) -->
+Sabbatical (Fall)
 
 `2019`
 
@@ -222,7 +222,7 @@ CHEM 291 (Chemical Research; 3 students)
 `2010`
 
 CHEM 119 (Introductory Chemistry, Contra Costa Community College; 19 students) 
-<<}
+-->
 
 ## Funded Fellowships and Grants
 
