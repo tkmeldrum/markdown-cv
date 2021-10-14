@@ -104,6 +104,7 @@ Deutscher Akademischer Austauschdienst (DAAD) postdoctoral fellowship
 2015 [139]
 
 `Physical Chemistry`
+
 `_Quantum Mechanics and Spectroscopy_`
 
 2021 [51]
@@ -130,7 +131,13 @@ Deutscher Akademischer Austauschdienst (DAAD) postdoctoral fellowship
 
 `Physical Chemistry and Instrumental Analysis Laboratories`
 
+Annually, 15-20 students per group
+
+Instructor of record four times
+
 `Chemical Research`
+
+Various students,
 
 
 <!--
