@@ -1,34 +1,33 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Tyler Meldrum's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Tyler Meldrum
+coffee, entropy, materials
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="tkmeldrum@wm.edu">tkmeldrum@wm.edu</a>
+<!-- | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a> -->
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Associate professor of chemistry at William & Mary
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Materials, single-sided nuclear magnetic resonance, cultural heritage, data analysis
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2006-2011`
+__University of California, Berkeley__
+Lawrence Berkeley National Laboratory, Materials Sciences Division; Berkeley, California
+
+Ph.D., Chemistry; Dissertation: _Xenon-based Molecular Sensors in Analytical Applications_
 
 `June 1661 - now`
 __Trinity College, Cambridge__
@@ -58,7 +57,7 @@ Associate, *French Academy of Science*, Paris, France
 ### Journals
 
 `1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 
 `1669`
 Lectiones opticæ.
@@ -87,5 +86,3 @@ __Lucasian professor of Mathematics__, Cambridge University
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
