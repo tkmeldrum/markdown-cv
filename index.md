@@ -535,59 +535,113 @@ _poster presenter, “Temperature Response of Functionalized Xenon Biosensors an
 
 ## Other professional contributions
 
-2021	Reviewer (3)
-		Distinguished Thesis Awards Committee member
+`2021`
 
-2020	Reviewer (3)
+Reviewer (3)
 
-2019	Graduate Research Symposium judge
-		Reviewer (6)
-		Grant reviewer (1)
+Distinguished Thesis Awards Committee member
 
-2018	Redeveloped CHEM 304 (Physical Chemistry Lab) pedagogy for Spring2019
-		Reviewer (2)
-		Presenter at the Associate Provost for eLearning Panel, Using Infographics
+New Faculty Mentor, Studio for Teaching and Learning Innovation
 
-2017	Consultant for the U.S. Department of Defense (Gunpowder, Maryland; single-sided NMR)
-	Reviewer (1)
-	Panelist for the University Teaching Project Workshop “Digital Creative Projects: Designing		 and Assessing Technology-based Assignments”
-	Member of the consulting committee to hire a science librarian
+Dean's representative for retention/tenure process for new faculty orientation
 
-2016	Developed Speed of Sound (statistical mechanics) experiment for CHEM 304
-	Member of the engineering steering committee at W&M
-	Reviewer (1)
+`2020`
 
-2015	Developed Differential Scanning Calorimetry experiment for CHEM 303
-	Department representative at SERMACS (regional ACS conference) graduate student fair
-	Faculty search committees (2)
-	Reviewer (3)
+Reviewer (3)
 
-2014	Faculty search committee
-	Reviewer (4)
+`2019`
+
+Graduate Research Symposium judge
+
+Reviewer (6)
+
+Grant reviewer (1)
+
+`2018`
+
+Redeveloped CHEM 304 (Physical Chemistry Lab) pedagogy for Spring 2019
+
+Reviewer (2)
+
+Presenter at the Associate Provost for eLearning Panel, Using Infographics
+
+`2017`
+
+Consultant for the U.S. Department of Defense (Gunpowder, Maryland; single-sided NMR)
+
+Reviewer (1)
+
+Panelist for the University Teaching Project Workshop “Digital Creative Projects: Designing and Assessing Technology-based Assignments”
+
+Member of the consulting committee to hire a science librarian
+
+`2016`
+
+Developed Speed of Sound (statistical mechanics) experiment for physical chemistry lab
+
+Member of the engineering steering committee at W&M
+
+Reviewer (1)
+
+`2015`
+
+Developed Differential Scanning Calorimetry experiment for physical chemistry lab
+
+Department representative at SERMACS (regional ACS conference) graduate student fair
+
+Faculty search committees (2)
+
+Reviewer (3)
+
+`2014`
+
+Faculty search committee
+
+Reviewer (4)
 
 ## Outreach activities
-2019	Chemistry Magic Show presenter at the Williamsburg Regional Library
-	Host for high-school tour of department
-	Presenter of chemistry of cooking class for adults, Williamsburg Regional Library
 
-2018	Presenter/host for various programs at the Williamsburg Regional Library
-		Forensic Science panelist, program for youth
-		Chemistry Magic Show
-		Simmer and Sear (chemistry of cooking), program for adults
-		Thankful for Chemistry, STEAM Saturday program for children
+`2019`
 
-2017	Volunteer/guest speaker at Williamsburg Regional Library
-		Eating molecules, a science program for children ages 7–12
-	Science fair judge, Jamestown High School
+Chemistry Magic Show presenter at the Williamsburg Regional Library
 
-2016	Volunteer/guest speaker at Williamsburg Regional Library
-		Energy and You!, a science program for children ages 7–12
+Host for high-school tour of department
 
-2015	Volunteer/guest speaker at Williamsburg Regional Library
-		Light and Color, a science program for children ages 8–12
+Presenter of chemistry of cooking class for adults, Williamsburg Regional Library
 
-	Invited panelist
-		Vaccinate! Because, Science!! Hosted by the W&M Graduate Student Assembly
+`2018`
+
+Presenter/host for various programs at the Williamsburg Regional Library
+
+Forensic Science panelist, program for youth
+
+Chemistry Magic Show
+
+_Simmer and Sear (chemistry of cooking),_ program for adults
+
+_Thankful for Chemistry, STEAM Saturday_ program for children
+
+`2017`
+
+Volunteer/guest speaker at Williamsburg Regional Library
+
+_Eating molecules,_ a science program for children ages 7–12
+
+Science fair judge, Jamestown High School
+
+`2016`
+
+Volunteer/guest speaker at Williamsburg Regional Library
+
+_Energy and You!,_ a science program for children ages 7–12
+
+`2015`
+
+Volunteer/guest speaker at Williamsburg Regional Library
+
+_Light and Color,_ a science program for children ages 8–12
+
+Invited panelist: _Vaccinate! Because, Science!!_ Hosted by the W&M Graduate Student Assembly
 
 
 
