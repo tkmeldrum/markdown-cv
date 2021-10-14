@@ -388,9 +388,11 @@ __Boldface__ names are William & Mary students
 
 _In reverse chronological order_
 
-18. **Rooney, Mary T.;** Meldrum, Tyler. Effect of pigment volume concentration on acrylic emulsion paints. Magn. Reson. Chem. **2020,** _58,_ 880–888. Special issue: NMR in cultural heritage. doi:10.1002/mrc.5053
+`18.`
+ **Rooney, Mary T.;** Meldrum, Tyler. Effect of pigment volume concentration on acrylic emulsion paints. _Magn. Reson. Chem._ **2020,** 58, 880–888. Special issue: NMR in cultural heritage. doi:10.1002/mrc.5053
 
-17. **Kelley, M.;** Abdol, N.; Soroushian, P.; Keating, K.; Balachandra, A.; Meldrum, T. Monitoring Real-time Curing of Epoxies in situ using Single-Sided NMR. J. Polym. Sci. 2020, 58, 616–623. doi:10.1002/pol.20190117
+`17.`
+ **Kelley, M.;** Abdol, N.; Soroushian, P.; Keating, K.; Balachandra, A.; Meldrum, T. Monitoring Real-time Curing of Epoxies in situ using Single-Sided NMR. _J. Polym. Sci._ **2020,** 58, 616–623. doi:10.1002/pol.20190117
 
 16. Ma, X.; Beltran, V.; Ramer, G.; Pavlidis, G.; Parkinson, D.Y.; Thoury, M.; Meldrum, T.; Centrone, A.; Berrie, B. Revealing the Distribution of Metal Carboxylates in Oil Paint from the Micro- to Nanoscale. Angew. Chemie Int. Ed. 2019, 58, 11652–11656. doi:10.1002/anie.201903553
 
