@@ -135,9 +135,15 @@ Annually, 15-20 students per group
 
 Instructor of record four times
 
-`Chemical Research`
+`Mentored Chemical Research`
 
-Various students,
+158 research credits
+
+27 summer student researchers
+
+4 undergraduate honors projects
+
+4 M.S. students
 
 
 <!--

@@ -75,7 +75,7 @@ code {
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
 	color: #aaa;
-	margin-top: 5em;
+	/* margin-top: 5em; */
 }
 
 p code {
