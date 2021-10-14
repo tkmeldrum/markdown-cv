@@ -91,6 +91,18 @@ Deutscher Akademischer Austauschdienst (DAAD) postdoctoral fellowship
 
 ## Courses Taught
 
+`Introductory Chemistry`
+
+2010 [19 students] _at Contra Costa Comnunity College_
+
+`General Chemistry`
+
+2013 [100 students], 2014 [150], 2015 [139]
+
+
+
+
+
 `2021`
 
 CHEM 301 (Physical Chemistry I, 53 students)
