@@ -185,8 +185,9 @@ United States-Israel Binational Science Foundation
 
 _Metals, magnets, and microwaves: Enhancing single-sided NMR signals in materials with DNP_
 
-  Joint proposal with Dr. Daphna Shimon, Hebrew University of Jerusalem
-	Total two-year funding (Feb 2022–Jan 2024): $150,000; W&M portion: $75,000
+Joint proposal with Dr. Daphna Shimon, Hebrew University of Jerusalem
+
+Feb 2022–Jan 2024, total funding: $150,000. (W&M portion: $75,000)
 
 `2020`
 
