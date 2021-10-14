@@ -430,20 +430,16 @@ _In reverse chronological order_
 `2021`
 
 - Society for the Advancement of Material and Process Engineering (SAMPE) National Meeting
-
 _Evaluating epoxy cure through single-sided NMR measurements of molecular mobility_
 
 - Interfaces and Effects in Composite Energetic Materials (IECEM 2021)
--
 _Nondestructive Inspection of Polymer-Inorganic Interfaces via Single-sided Nuclear Magnetic Resonance_
 
 `2019`
-- University of Delaware; Newark, DE
-
+University of Delaware; Newark, DE
 _A Little R&R: Single-sided Magnetic Resonance and Relaxation_
 
-- Workshop on Low-field Magnetic Resonance
-
+Workshop on Low-field Magnetic Resonance
 _Invited speaker, National Institute of Standards and Technology, Boulder, CO_
 
 `2018`
