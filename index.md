@@ -26,9 +26,13 @@ Materials, single-sided nuclear magnetic resonance, cultural heritage, data anal
 `2006-2011`
 __University of California, Berkeley__
 
-Lawrence Berkeley National Laboratory, Materials Sciences Division; Berkeley, California
+__Lawrence Berkeley National Laboratory, Materials Sciences Division__
 
-Ph.D., Chemistry; Dissertation: _Xenon-based Molecular Sensors in Analytical Applications_
+Berkeley, California
+
+Ph.D., Chemistry
+
+Dissertation: _Xenon-based Molecular Sensors in Analytical Applications_
 
 
 `2004–2006`
@@ -93,7 +97,7 @@ CHEM 301 (Physical Chemistry I, 53 students)
 
 CHEM 309L (Instrumental Analysis Laboratory, 10 students)
 
-Sabbatical (Spring)
+<!-- Sabbatical (Spring) -->
 
 `2020`
 
@@ -101,7 +105,7 @@ CHEM 302 (Physical Chemistry II, 59 students)
 
 CHEM 302L (Physical Chemistry Laboratory, 63 students)
 
-Sabbatical (Fall)
+<!-- Sabbatical (Fall) -->
 
 `2019`
 
@@ -181,59 +185,65 @@ CHEM 119 (Introductory Chemistry, Contra Costa Community College; 19 students)�
 
 `2021`
 
-United States-Israel Binational Science Foundation
+__United States-Israel Binational Science Foundation__
 
 _Metals, magnets, and microwaves: Enhancing single-sided NMR signals in materials with DNP_
 
 Joint proposal with Dr. Daphna Shimon, Hebrew University of Jerusalem
 
-Feb 2022–Jan 2024, total funding: $150,000. (W&M portion: $75,000)
+Feb 2022–Jan 2024
+
+Total funding: $150,000. (W&M portion: $75,000)
 
 `2020`
 
-Small Business Technology Transfer (STTR) Sequential Phase II Grant
+__Small Business Technology Transfer (STTR) Sequential Phase II Grant__
 
 _Method for Locally Measuring Strength of a Polymer-Inorganic Interface During Cure and Imaging_
 
 Cooperative project between Metna Co. (Lansing, MI), Rutgers University (Newark, NJ), and William & Mary.
 
-Oct 2020–Sept 2022, total funding: $1,100,000. (W&M portion: $165,000)
+Oct 2020–Sept 2022
+
+Total funding: $1,100,000. (W&M portion: $165,000)
 
 `2018`
 
-Small Business Technology Transfer (STTR) Phase II Grant
+__Small Business Technology Transfer (STTR) Phase II Grant__
 
 _Method for Locally Measuring Strength of a Polymer-Inorganic Interface During Cure and Imaging_
 
 Cooperative project between Metna Co. (Lansing, MI), Rutgers University (Newark, NJ), and William & Mary.
 
-		Oct 2018–Dec 2020; Total funding: $1,000,000. W&M portion: $150,000
+Oct 2018–Dec 2020
+
+Total funding: $1,000,000. W&M portion: $150,000
 
 `2016`
 
-Faculty Summer Research Grant (internal funding)
+__Faculty Summer Research Grant__ (internal funding)
 
-		Awarded for Summer 2017
 
 `2015`
 
-Colonial Williamsburg Foundation
+__Colonial Williamsburg Foundation__
 
-		Summer stipend for undergraduate research student; focus on analysis of dyed textiles
+Summer stipend for undergraduate research student; focus on analysis of dyed textiles
 
-		Summer 2015; $3450
+Summer 2015; $3450
 
 `2014`
 
-	Faculty Summer Research Grant (internal funding)
+__Faculty Summer Research Grant__ (internal funding)
 
-		Awarded for Summer 2014
 
-	American Chemical Society Petroleum Research Fund , Undergraduate New Investigator Proposal:
+__American Chemical Society Petroleum Research Foundation__
 
-_Investigating the Development of Intermolecular Networks in Coatings with Single-sided NMR._
+Undergraduate New Investigator, _Investigating the Development of Intermolecular Networks in Coatings with Single-sided NMR._
 
-		Awarded October 2014; $55,000 
+Awarded October 2014
+
+$55,000 
 
 
 ### Unfunded Grant Proposals
