@@ -196,7 +196,7 @@ _Method for Locally Measuring Strength of a Polymer-Inorganic Interface During C
 
 Cooperative project between Metna Co. (Lansing, MI), Rutgers University (Newark, NJ), and William & Mary.
 
-		Oct 2020–Sept 2022; Total funding: $1,100,000. W&M portion: $165,000
+Oct 2020–Sept 2022, total funding: $1,100,000. (W&M portion: $165,000)
 
 `2018`
 
