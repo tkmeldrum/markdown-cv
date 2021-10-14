@@ -105,11 +105,11 @@ Deutscher Akademischer Austauschdienst (DAAD) postdoctoral fellowship
 
 `Physical Chemistry`
 
-`_Quantum Mechanics and Spectroscopy_`
+_Quantum Mechanics and Spectroscopy_
 
 2021 [51]
 
-`Physical Chemistry (Thermodynamics and Statistical Mechanics)`
+_Thermodynamics and Statistical Mechanics_
 
 2017 [47]
 
@@ -119,7 +119,7 @@ Deutscher Akademischer Austauschdienst (DAAD) postdoctoral fellowship
 
 2020 [59]
 
-`Physical Chemistry for Life Sciences`
+_Physical Chemistry for Life Sciences_
 
 2015 [9]
 
@@ -129,13 +129,13 @@ Deutscher Akademischer Austauschdienst (DAAD) postdoctoral fellowship
 
 2019 [23]
 
-`Physical Chemistry and Instrumental Analysis Laboratories`
+_Physical Chemistry and Instrumental Analysis Laboratories_
 
 Annually, 15-20 students per group
 
 Instructor of record four times
 
-`Mentored Chemical Research`
+`Chemical Research`
 
 158 research credits
 
