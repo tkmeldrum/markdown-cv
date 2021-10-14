@@ -382,31 +382,31 @@ $55,000 
 
 ## Publications
 
-_A list is also available [online](https://scholar.google.com/citations?user=yKXJezQAAAAJ&hl=en)_
+_[Also available at Google Scholar](https://scholar.google.com/citations?user=yKXJezQAAAAJ&hl=en)_
 
 __Boldface__ names are William & Mary students
 
 _In reverse chronological order_
 
-18. Rooney, Mary T.; Meldrum, Tyler. Effect of pigment volume concentration on acrylic emulsion paints. Magn. Reson. Chem. 2020, 58, 880–888. Special issue: NMR in cultural heritage. doi:10.1002/mrc.5053
+18. **Rooney, Mary T.;** Meldrum, Tyler. Effect of pigment volume concentration on acrylic emulsion paints. Magn. Reson. Chem. **2020,** _58,_ 880–888. Special issue: NMR in cultural heritage. doi:10.1002/mrc.5053
 
-17. Kelley, M.; Abdol, N.; Soroushian, P.; Keating, K.; Balachandra, A.; Meldrum, T. Monitoring Real-time Curing of Epoxies in situ using Single-Sided NMR. J. Polym. Sci. 2020, 58, 616–623. doi:10.1002/pol.20190117
+17. **Kelley, M.;** Abdol, N.; Soroushian, P.; Keating, K.; Balachandra, A.; Meldrum, T. Monitoring Real-time Curing of Epoxies in situ using Single-Sided NMR. J. Polym. Sci. 2020, 58, 616–623. doi:10.1002/pol.20190117
 
-    16. Ma, X.; Beltran, V.; Ramer, G.; Pavlidis, G.; Parkinson, D.Y.; Thoury, M.; Meldrum, T.; Centrone, A.; Berrie, B. Revealing the Distribution of Metal Carboxylates in Oil Paint from the Micro- to Nanoscale. Angew. Chemie Int. Ed. 2019, 58, 11652–11656. doi:10.1002/anie.201903553
+16. Ma, X.; Beltran, V.; Ramer, G.; Pavlidis, G.; Parkinson, D.Y.; Thoury, M.; Meldrum, T.; Centrone, A.; Berrie, B. Revealing the Distribution of Metal Carboxylates in Oil Paint from the Micro- to Nanoscale. Angew. Chemie Int. Ed. 2019, 58, 11652–11656. doi:10.1002/anie.201903553
 
-    15. King, J. N.; Fallorina, A.; Yu, J.; Zhang, G.; Telkki, V.-V.; Hilty, C; Meldrum, T. Probing molecular dynamics with hyperpolarized ultrafast Laplace NMR using a low-field, single-sided magnet. Chem. Sci. 2018, 9, 6143–6149. Open access. doi:10.1039/C8SC01329B
+15. **King, J. N.; Fallorina, A.; Yu, J.;** Zhang, G.; Telkki, V.-V.; Hilty, C; Meldrum, T. Probing molecular dynamics with hyperpolarized ultrafast Laplace NMR using a low-field, single-sided magnet. Chem. Sci. 2018, 9, 6143–6149. Open access. doi:10.1039/C8SC01329B
 
-    14. Brass, M.; Morin, F.; Meldrum, T. Spatially Resolved Measurements of Crosslinking in UV-Curable Coatings Using Single-Sided NMR. Magnetochemistry 2018, 4(1), 8. Open access. doi:10.3390/magnetochemistry4010008
+14. **Brass, M.; Morin, F.;** Meldrum, T. Spatially Resolved Measurements of Crosslinking in UV-Curable Coatings Using Single-Sided NMR. Magnetochemistry 2018, 4(1), 8. Open access. doi:10.3390/magnetochemistry4010008
 
-    13. Rehorn, C.; Kehlet, C.; Del Federico, E.; Zia, W.; Meldrum, T.; Blümich, B. Automatizing the Comparison of NMR Depth Profiles. Strain 2017, e12254. doi:10.1111/str.12254
+13. Rehorn, C.; Kehlet, C.; Del Federico, E.; Zia, W.; Meldrum, T.; Blümich, B. Automatizing the Comparison of NMR Depth Profiles. Strain 2017, e12254. doi:10.1111/str.12254
 
-    12. Udell, N. A.; Hodgkins, R. E.; Berrie, B. H.; Meldrum, T. Physical and chemical properties of traditional and water-mixable oil paints assessed using single-sided NMR. Microchem. J. 133, 2017, 31–36. doi:10.1016/j.microc.2017.03.013
+12. **Udell, N. A.;** Hodgkins, R. E.; Berrie, B. H.; Meldrum, T. Physical and chemical properties of traditional and water-mixable oil paints assessed using single-sided NMR. Microchem. J. 133, 2017, 31–36. doi:10.1016/j.microc.2017.03.013
 
-    11. Fife, G.; Stabik, B.; Blümich, B.; Hoppenbrouwers, R.; Meldrum, T. Evidence for the Accumulative Effect of Organic Solvent Treatments on Paintings and What to Do about It: A Case Study of Two “Identical” Seventeenth-Century Paintings Using Single-Sided Nuclear Magnetic Resonance; in The Noninvasive Analysis of Painted Surfaces: Scientific Impact and Conservation Practice; Nevin, A. and Doherty, T., Eds. Smithsonian Contribution to Museum Conservation 5(5), 2016, 15–23. doi:10.5479/si.19492367.5
+11. Fife, G.; Stabik, B.; Blümich, B.; Hoppenbrouwers, R.; Meldrum, T. Evidence for the Accumulative Effect of Organic Solvent Treatments on Paintings and What to Do about It: A Case Study of Two “Identical” Seventeenth-Century Paintings Using Single-Sided Nuclear Magnetic Resonance; in The Noninvasive Analysis of Painted Surfaces: Scientific Impact and Conservation Practice; Nevin, A. and Doherty, T., Eds. Smithsonian Contribution to Museum Conservation 5(5), 2016, 15–23. doi:10.5479/si.19492367.5
 
-    10. King, J. N.; Lee, V. J.; Ahola, S.; Telkki, V-V.; Meldrum, T. Ultrafast Multidimensional Laplace NMR Using a Single-sided Magnet. Angew. Chemie Int. Ed. 55, 2016, 5040–5043. doi:10.1002/anie.201511859
+10. **King, J. N.; Lee, V. J.;** Ahola, S.; Telkki, V-V.; Meldrum, T. Ultrafast Multidimensional Laplace NMR Using a Single-sided Magnet. Angew. Chemie Int. Ed. 55, 2016, 5040–5043. doi:10.1002/anie.201511859
 
-   9. Fife, G.; Stabik, B.; Kelley, A. E.; King, J. N.; Blumich, B.; Hoppenbrouwers, R.; Meldrum, T. Characterization of aging and solvent treatments of painted surfaces using single-sided NMR. Magn. Reson. Chem., 2014, 53, 58–63. doi:10.1002/mrc.4164
+9. Fife, G.; Stabik, B.; **Kelley, A. E.; King, J. N.;** Blumich, B.; Hoppenbrouwers, R.; Meldrum, T. Characterization of aging and solvent treatments of painted surfaces using single-sided NMR. Magn. Reson. Chem., 2014, 53, 58–63. doi:10.1002/mrc.4164
 
 8. Garimella, P. D.; Meldrum, T.; Witus, L. S.; Smith, M.; Bajaj, V S.; Wemmer, D. E.; Francis, M. B.; Pines, A. Hyperpolarized Xenon-Based Molecular Sensors for Label-Free Detection of analytes. J. Am. Chem. Soc., 2014, 136, 164–168. doi:10.1021/ja406760r
 
@@ -424,32 +424,162 @@ _In reverse chronological order_
 
 1. Schröder, L.; Meldrum, T.; Smith, M.; Lowery, T. J.; Wemmer, D. E.; Pines, A. Temperature Response of 129Xe Depolarization Transfer and Its Application for Ultrasensitive NMR Detection. Phys. Rev. Lett. 2008, 100, 257603(4). doi:10.1103/PhysRevLett.100.257603 
 
-### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas.
+## Presentations and talks
 
-`1669`
-Lectiones opticæ.
+`2021`
 
-etc. etc. etc.
+- Society for the Advancement of Material and Process Engineering (SAMPE) National Meeting
 
-### Patents
+_Evaluating epoxy cure through single-sided NMR measurements of molecular mobility_
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Interfaces and Effects in Composite Energetic Materials (IECEM 2021)
+-
+_Nondestructive Inspection of Polymer-Inorganic Interfaces via Single-sided Nuclear Magnetic Resonance_
+
+`2019`
+- University of Delaware; Newark, DE
+
+_A Little R&R: Single-sided Magnetic Resonance and Relaxation_
+
+- Workshop on Low-field Magnetic Resonance
+
+_Invited speaker, National Institute of Standards and Technology, Boulder, CO_
+
+`2018`
+American Chemical Society National Meeting; Boston, MA
+
+_How Pigment/Binder Interactions Affect Single-sided NMR Measurements of Acrylic Paints_
+
+2017	American Chemical Society National Meeting; Washington, D.C.
+Physical and Chemical Properties of Traditional and Water-mixable Oil Paints Assessed Using Single-sided NMR
+
+	New York University Abu Dhabi, United Arab Emirates
+		Invited speaker, Scientific Research for Cultural Heritage symposium
+
+2017	Old Dominion University; Norfolk, VA
+2016	Texas A&M University; College Station, TX
+	Brigham Young University; Provo, UT
+	Georgetown University; Washington, DC
+		departmental seminar talks, applications of single-sided NMR in cultural heritage research
+
+2015	Harvard Art Museums; Cambridge, MA
+Workshop on applications of single-sided magnetic resonance to cultural heritage problems
+		Leader/instructor
+	Experimental NMR Conference; Asilomar, CA
+		poster submission
+		“T2–D Studies of Biomolecular Interactions Using Single-sided NMR”
+
+	SE/SW Joint Regional Meeting of the American Chemical Society; Memphis, TN
+		poster submissions (3):
+		“Characterization of historical lime mortar using single-sided nuclear magnetic resonance”
+		“Ultrafast two-dimensional relaxometry with single-sided NMR”
+“Monitoring the development of intermolecular networks during the curing of coatings using single-sided NMR”
+
+2014	The Non-Invasive Analysis of Painted Surfaces: Scientific Impact and Conservation Practice; 		Washington, D.C.
+“Evidence for the accumulative effect of organic solvent treatments on paintings and what to do about it: A case study of two ‘identical’ 17th century paintings with single-sided NMR”
+		presentation available online at http://youtu.be/qDee6QUc0gg
+2013	New techniques for the non-invasive investigation of the surface and subsurface structure of 		heritage objects; Toruń, Poland
+		invited speaker, “Of MOUSE and Men: Single-sided NMR in Cultural Heritage”
+
+	Ampere Summer School in Analyzing Cultural Heritage Using Portable Magnetic Resonance;
+	Volterra, Italy
+		conference organizer, instructor
+		“Principles of NMR”
+
+	Experimental NMR Conference; Asilomar, California
+		poster submission
+		“Advancements in Stray-field NMR Relaxometry in Testing of Pipes, Soil, and Paintings”
+
+2012	EUROMAR World Wide Magnetic Resonance Conference; Dublin, Ireland
+		poster presenter, travel stipend award recipient
+		“Contact-free Investigations of Master Paintings Using Single-sided NMR”
+
+	Gordon Conference, Scientific Methods in Cultural Heritage Research; West Dover, Vermont
+		poster presenter, travel stipend award recipient
+		“Contact-free Investigations of Master Paintings Using Single-sided NMR”
+
+2011	Leibniz Institut für Molekulare Pharmakologie, Berlin
+		invited speaker
+		“Optimization of CEST Contrast in Hyperpolarized Xenon Systems”
+
+2010	EUROMAR World Wide Magnetic Resonance Conference; Florence, Italy
+		promoted to oral presentation
+		“A Xenon-based Molecular Sensor Assembled on an MS2 Viral Capsid Scaffold”
+
+2009	Gordon Conference, Magnetic Resonance; Biddeford, Maine
+		poster presenter, travel stipend award recipient
+		“Application of Multiple-pulse Saturation Transfer Sequences in hp-129Xe NMR”
+
+2009	Experimental NMR Conference; Asilomar, California
+		poster presenter
+		“Multiplexing with Xenon Biosensors in a Macroscopically Homogeneous Phase”
+
+2008	International Society for Magnetic Resonance in Medicine; Toronto, Canada
+		poster presenter, travel stipend award recipient
+		“Optimization of Xenon Biosensors for Increased Sensitivity”
+
+	Experimental NMR Conference; Asilomar, California
+		poster presenter
+“Temperature Response of Functionalized Xenon Biosensors and Its Application to Ultra-sensitive NMR Detection” 
 
 
-## Occupation
+## Other professional contributions
 
-`1600`
-__Royal Mint__, London
+2021	Reviewer (3)
+		Distinguished Thesis Awards Committee member
 
-- Warden
-- Minted coins
+2020	Reviewer (3)
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+2019	Graduate Research Symposium judge
+		Reviewer (6)
+		Grant reviewer (1)
+
+2018	Redeveloped CHEM 304 (Physical Chemistry Lab) pedagogy for Spring2019
+		Reviewer (2)
+		Presenter at the Associate Provost for eLearning Panel, Using Infographics
+
+2017	Consultant for the U.S. Department of Defense (Gunpowder, Maryland; single-sided NMR)
+	Reviewer (1)
+	Panelist for the University Teaching Project Workshop “Digital Creative Projects: Designing		 and Assessing Technology-based Assignments”
+	Member of the consulting committee to hire a science librarian
+
+2016	Developed Speed of Sound (statistical mechanics) experiment for CHEM 304
+	Member of the engineering steering committee at W&M
+	Reviewer (1)
+
+2015	Developed Differential Scanning Calorimetry experiment for CHEM 303
+	Department representative at SERMACS (regional ACS conference) graduate student fair
+	Faculty search committees (2)
+	Reviewer (3)
+
+2014	Faculty search committee
+	Reviewer (4)
+
+## Outreach activities
+2019	Chemistry Magic Show presenter at the Williamsburg Regional Library
+	Host for high-school tour of department
+	Presenter of chemistry of cooking class for adults, Williamsburg Regional Library
+
+2018	Presenter/host for various programs at the Williamsburg Regional Library
+		Forensic Science panelist, program for youth
+		Chemistry Magic Show
+		Simmer and Sear (chemistry of cooking), program for adults
+		Thankful for Chemistry, STEAM Saturday program for children
+
+2017	Volunteer/guest speaker at Williamsburg Regional Library
+		Eating molecules, a science program for children ages 7–12
+	Science fair judge, Jamestown High School
+
+2016	Volunteer/guest speaker at Williamsburg Regional Library
+		Energy and You!, a science program for children ages 7–12
+
+2015	Volunteer/guest speaker at Williamsburg Regional Library
+		Light and Color, a science program for children ages 8–12
+
+	Invited panelist
+		Vaccinate! Because, Science!! Hosted by the W&M Graduate Student Assembly
+
 
 
 
