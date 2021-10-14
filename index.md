@@ -388,43 +388,59 @@ __Boldface__ names are William & Mary students
 
 _In reverse chronological order_
 
-`18.`
+`18`
  **Rooney, Mary T.;** Meldrum, Tyler. Effect of pigment volume concentration on acrylic emulsion paints. _Magn. Reson. Chem._ **2020,** 58, 880–888. Special issue: NMR in cultural heritage. doi:10.1002/mrc.5053
 
-`17.`
+`17`
  **Kelley, M.;** Abdol, N.; Soroushian, P.; Keating, K.; Balachandra, A.; Meldrum, T. Monitoring Real-time Curing of Epoxies in situ using Single-Sided NMR. _J. Polym. Sci._ **2020,** 58, 616–623. doi:10.1002/pol.20190117
 
-16. Ma, X.; Beltran, V.; Ramer, G.; Pavlidis, G.; Parkinson, D.Y.; Thoury, M.; Meldrum, T.; Centrone, A.; Berrie, B. Revealing the Distribution of Metal Carboxylates in Oil Paint from the Micro- to Nanoscale. Angew. Chemie Int. Ed. 2019, 58, 11652–11656. doi:10.1002/anie.201903553
+`16`
+Ma, X.; Beltran, V.; Ramer, G.; Pavlidis, G.; Parkinson, D.Y.; Thoury, M.; Meldrum, T.; Centrone, A.; Berrie, B. Revealing the Distribution of Metal Carboxylates in Oil Paint from the Micro- to Nanoscale. _Angew. Chemie Int. Ed._ **2019,** 58, 11652–11656. doi:10.1002/anie.201903553
 
-15. **King, J. N.; Fallorina, A.; Yu, J.;** Zhang, G.; Telkki, V.-V.; Hilty, C; Meldrum, T. Probing molecular dynamics with hyperpolarized ultrafast Laplace NMR using a low-field, single-sided magnet. Chem. Sci. 2018, 9, 6143–6149. Open access. doi:10.1039/C8SC01329B
+`15`
+**King, J. N.; Fallorina, A.; Yu, J.;** Zhang, G.; Telkki, V.-V.; Hilty, C; Meldrum, T. Probing molecular dynamics with hyperpolarized ultrafast Laplace NMR using a low-field, single-sided magnet. _Chem. Sci._ **2018,** 9, 6143–6149. Open access. doi:10.1039/C8SC01329B
 
-14. **Brass, M.; Morin, F.;** Meldrum, T. Spatially Resolved Measurements of Crosslinking in UV-Curable Coatings Using Single-Sided NMR. Magnetochemistry 2018, 4(1), 8. Open access. doi:10.3390/magnetochemistry4010008
+`14`
+**Brass, M.; Morin, F.;** Meldrum, T. Spatially Resolved Measurements of Crosslinking in UV-Curable Coatings Using Single-Sided NMR. _Magnetochemistry_ **2018,** 4(1), 8. Open access. doi:10.3390/magnetochemistry4010008
 
-13. Rehorn, C.; Kehlet, C.; Del Federico, E.; Zia, W.; Meldrum, T.; Blümich, B. Automatizing the Comparison of NMR Depth Profiles. Strain 2017, e12254. doi:10.1111/str.12254
+`13`
+Rehorn, C.; Kehlet, C.; Del Federico, E.; Zia, W.; Meldrum, T.; Blümich, B. Automatizing the Comparison of NMR Depth Profiles. _Strain_ **2017,** e12254. doi:10.1111/str.12254
 
-12. **Udell, N. A.;** Hodgkins, R. E.; Berrie, B. H.; Meldrum, T. Physical and chemical properties of traditional and water-mixable oil paints assessed using single-sided NMR. Microchem. J. 133, 2017, 31–36. doi:10.1016/j.microc.2017.03.013
+`12`
+**Udell, N. A.;** Hodgkins, R. E.; Berrie, B. H.; Meldrum, T. Physical and chemical properties of traditional and water-mixable oil paints assessed using single-sided NMR. _Microchem. J._ **2017,** 133, 31–36. doi:10.1016/j.microc.2017.03.013
 
-11. Fife, G.; Stabik, B.; Blümich, B.; Hoppenbrouwers, R.; Meldrum, T. Evidence for the Accumulative Effect of Organic Solvent Treatments on Paintings and What to Do about It: A Case Study of Two “Identical” Seventeenth-Century Paintings Using Single-Sided Nuclear Magnetic Resonance; in The Noninvasive Analysis of Painted Surfaces: Scientific Impact and Conservation Practice; Nevin, A. and Doherty, T., Eds. Smithsonian Contribution to Museum Conservation 5(5), 2016, 15–23. doi:10.5479/si.19492367.5
+`11`
+Fife, G.; Stabik, B.; Blümich, B.; Hoppenbrouwers, R.; Meldrum, T. Evidence for the Accumulative Effect of Organic Solvent Treatments on Paintings and What to Do about It: A Case Study of Two “Identical” Seventeenth-Century Paintings Using Single-Sided Nuclear Magnetic Resonance; in _The Noninvasive Analysis of Painted Surfaces: Scientific Impact and Conservation Practice;_ Nevin, A. and Doherty, T., Eds. Smithsonian Contribution to Museum Conservation 5(5), **2016,** 15–23. doi:10.5479/si.19492367.5
 
-10. **King, J. N.; Lee, V. J.;** Ahola, S.; Telkki, V-V.; Meldrum, T. Ultrafast Multidimensional Laplace NMR Using a Single-sided Magnet. Angew. Chemie Int. Ed. 55, 2016, 5040–5043. doi:10.1002/anie.201511859
+`10`
+**King, J. N.; Lee, V. J.;** Ahola, S.; Telkki, V-V.; Meldrum, T. Ultrafast Multidimensional Laplace NMR Using a Single-sided Magnet. _Angew. Chemie Int. Ed._ **2016,** 55, 5040–5043. doi:10.1002/anie.201511859
 
-9. Fife, G.; Stabik, B.; **Kelley, A. E.; King, J. N.;** Blumich, B.; Hoppenbrouwers, R.; Meldrum, T. Characterization of aging and solvent treatments of painted surfaces using single-sided NMR. Magn. Reson. Chem., 2014, 53, 58–63. doi:10.1002/mrc.4164
+`9`
+Fife, G.; Stabik, B.; **Kelley, A. E.; King, J. N.;** Blumich, B.; Hoppenbrouwers, R.; Meldrum, T. Characterization of aging and solvent treatments of painted surfaces using single-sided NMR. _Magn. Reson. Chem._ **2014,** 53, 58–63. doi:10.1002/mrc.4164
 
-8. Garimella, P. D.; Meldrum, T.; Witus, L. S.; Smith, M.; Bajaj, V S.; Wemmer, D. E.; Francis, M. B.; Pines, A. Hyperpolarized Xenon-Based Molecular Sensors for Label-Free Detection of analytes. J. Am. Chem. Soc., 2014, 136, 164–168. doi:10.1021/ja406760r
+`8`
+Garimella, P. D.; Meldrum, T.; Witus, L. S.; Smith, M.; Bajaj, V S.; Wemmer, D. E.; Francis, M. B.; Pines, A. Hyperpolarized Xenon-Based Molecular Sensors for Label-Free Detection of analytes. _J. Am. Chem. Soc._ **2014,** 136, 164–168. doi:10.1021/ja406760r
 
-7. Fukunaga, K.; Meldrum, T.; Zia, W.; Ohno, M.; Fuchida, T.; Blumich, B. Nondestructive Investigation of the Internal Structure of Fresco Paintings. In 2013 Digital Heritage International Congress (DigitalHeritage) IEEE, 2013, 1, 81–88. doi:10.1109/DigitalHeritage.2013.6743716
+`7`
+Fukunaga, K.; Meldrum, T.; Zia, W.; Ohno, M.; Fuchida, T.; Blumich, B. Nondestructive Investigation of the Internal Structure of Fresco Paintings. In _2013 Digital Heritage International Congress (DigitalHeritage) IEEE_ **2013,** 1, 81–88. doi:10.1109/DigitalHeritage.2013.6743716
 
-6. Meldrum, T.; Bajaj, V. S.; Wemmer, D. E.; Pines, A. Band-Selective Chemical Exchange Saturation Transfer Imaging with Hyperpolarized Xenon-Based Molecular Sensors. J. Magn. Reson., 2011, 213, 14–21. doi:10.1016/j.jmr.2011.06.027
+`6`
+Meldrum, T.; Bajaj, V. S.; Wemmer, D. E.; Pines, A. Band-Selective Chemical Exchange Saturation Transfer Imaging with Hyperpolarized Xenon-Based Molecular Sensors. _J. Magn. Reson._ **2011,** 213, 14–21. doi:10.1016/j.jmr.2011.06.027
 
-5. Meldrum, T.; Seim, K. L.; Bajaj, V. S.; Palaniappan, K. K.; Wu, W.; Francis, M. B.; Wemmer, D. E.; Pines, A. A Xenon-Based Molecular Sensor Assembled on an MS2 Viral Capsid Scaffold. J. Am. Chem. Soc. 2010, 132, 5936–5937. doi:10.1021/ja100319f
+`5`
+Meldrum, T.; Seim, K. L.; Bajaj, V. S.; Palaniappan, K. K.; Wu, W.; Francis, M. B.; Wemmer, D. E.; Pines, A. A Xenon-Based Molecular Sensor Assembled on an MS2 Viral Capsid Scaffold. _J. Am. Chem. Soc._ **2010,** 132, 5936–5937. doi:10.1021/ja100319f
 
-4. Meldrum, T.; Schröder, L.; Denger, P.; Wemmer, D. E.; Pines, A. Xenon-Based Molecular Sensors in Lipid Suspensions. J. Magn. Reson. 2010, 205, 242–246. (Cover article.) doi:10.1016/j.jmr.2010.05.005
+`4`
+Meldrum, T.; Schröder, L.; Denger, P.; Wemmer, D. E.; Pines, A. Xenon-Based Molecular Sensors in Lipid Suspensions. _J. Magn. Reson._ **2010,** 205, 242–246. (Cover article.) doi:10.1016/j.jmr.2010.05.005
 
-3. Schröder, L.; Meldrum, T.; Smith, M.; Schilling, F.; Denger, P.; Zapf, S.; Wemmer, D. E.; Pines, A. Xenon Biosensors for Multi-Purpose Molecular Imaging. World Congress on Medical Physics and Biomedical Engineering, September 7–12, 2009, Munich, Germany. IFMBE Proc. 2009, 25/13, 176–179.
+`3`
+Schröder, L.; Meldrum, T.; Smith, M.; Schilling, F.; Denger, P.; Zapf, S.; Wemmer, D. E.; Pines, A. Xenon Biosensors for Multi-Purpose Molecular Imaging. World Congress on Medical Physics and Biomedical Engineering, September 7–12, 2009, Munich, Germany. _IFMBE Proc._ **2009,** 25/13, 176–179.
 
-2. Schröder, L.; Chavez, L.; Meldrum, T.; Smith, M.; Lowery, T. J.; Wemmer, D. E.; Pines, A. Temperature-Controlled Molecular Depolarization Gates in Nuclear Magnetic Resonance. Angew. Chem. Int. Ed. 2008, 47, 4316–4320. (Frontispiece.) doi:10.1002/anie.200800382
+`2`
+Schröder, L.; Chavez, L.; Meldrum, T.; Smith, M.; Lowery, T. J.; Wemmer, D. E.; Pines, A. Temperature-Controlled Molecular Depolarization Gates in Nuclear Magnetic Resonance. _Angew. Chem. Int. Ed._ **2008,** 47, 4316–4320. (Frontispiece.) doi:10.1002/anie.200800382
 
-1. Schröder, L.; Meldrum, T.; Smith, M.; Lowery, T. J.; Wemmer, D. E.; Pines, A. Temperature Response of 129Xe Depolarization Transfer and Its Application for Ultrasensitive NMR Detection. Phys. Rev. Lett. 2008, 100, 257603(4). doi:10.1103/PhysRevLett.100.257603 
+`1`
+Schröder, L.; Meldrum, T.; Smith, M.; Lowery, T. J.; Wemmer, D. E.; Pines, A. Temperature Response of 129Xe Depolarization Transfer and Its Application for Ultrasensitive NMR Detection. _Phys. Rev. Lett._ **2008,** 100, 257603(4). doi:10.1103/PhysRevLett.100.257603 
 
 
 ## Presentations and talks
