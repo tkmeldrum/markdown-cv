@@ -429,95 +429,108 @@ _In reverse chronological order_
 
 `2021`
 
-- Society for the Advancement of Material and Process Engineering (SAMPE) National Meeting
+Society for the Advancement of Material and Process Engineering (SAMPE) National Meeting.
 _Evaluating epoxy cure through single-sided NMR measurements of molecular mobility_
 
-- Interfaces and Effects in Composite Energetic Materials (IECEM 2021)
+Interfaces and Effects in Composite Energetic Materials (IECEM 2021).
 _Nondestructive Inspection of Polymer-Inorganic Interfaces via Single-sided Nuclear Magnetic Resonance_
 
 `2019`
-University of Delaware; Newark, DE
+University of Delaware; Newark, DE.
 _A Little R&R: Single-sided Magnetic Resonance and Relaxation_
 
-Workshop on Low-field Magnetic Resonance
+Workshop on Low-field Magnetic Resonance.
 _Invited speaker, National Institute of Standards and Technology, Boulder, CO_
 
 `2018`
-American Chemical Society National Meeting; Boston, MA
-
+American Chemical Society National Meeting; Boston, MA.
 _How Pigment/Binder Interactions Affect Single-sided NMR Measurements of Acrylic Paints_
 
-2017	American Chemical Society National Meeting; Washington, D.C.
-Physical and Chemical Properties of Traditional and Water-mixable Oil Paints Assessed Using Single-sided NMR
+`2017`
 
-	New York University Abu Dhabi, United Arab Emirates
-		Invited speaker, Scientific Research for Cultural Heritage symposium
+American Chemical Society National Meeting; Washington, D.C.
+_Physical and Chemical Properties of Traditional and Water-mixable Oil Paints Assessed Using Single-sided NMR_
 
-2017	Old Dominion University; Norfolk, VA
-2016	Texas A&M University; College Station, TX
-	Brigham Young University; Provo, UT
-	Georgetown University; Washington, DC
-		departmental seminar talks, applications of single-sided NMR in cultural heritage research
+New York University Abu Dhabi, United Arab Emirates.
+_Invited speaker, Scientific Research for Cultural Heritage symposium_
 
-2015	Harvard Art Museums; Cambridge, MA
-Workshop on applications of single-sided magnetic resonance to cultural heritage problems
-		Leader/instructor
-	Experimental NMR Conference; Asilomar, CA
-		poster submission
-		“T2–D Studies of Biomolecular Interactions Using Single-sided NMR”
+Old Dominion University; Norfolk, VA.
+_departmental seminar talk, applications of single-sided NMR in cultural heritage research_
 
-	SE/SW Joint Regional Meeting of the American Chemical Society; Memphis, TN
-		poster submissions (3):
-		“Characterization of historical lime mortar using single-sided nuclear magnetic resonance”
-		“Ultrafast two-dimensional relaxometry with single-sided NMR”
-“Monitoring the development of intermolecular networks during the curing of coatings using single-sided NMR”
+`2016`
 
-2014	The Non-Invasive Analysis of Painted Surfaces: Scientific Impact and Conservation Practice; 		Washington, D.C.
-“Evidence for the accumulative effect of organic solvent treatments on paintings and what to do about it: A case study of two ‘identical’ 17th century paintings with single-sided NMR”
-		presentation available online at http://youtu.be/qDee6QUc0gg
-2013	New techniques for the non-invasive investigation of the surface and subsurface structure of 		heritage objects; Toruń, Poland
-		invited speaker, “Of MOUSE and Men: Single-sided NMR in Cultural Heritage”
+Texas A&M University; College Station, TX.
 
-	Ampere Summer School in Analyzing Cultural Heritage Using Portable Magnetic Resonance;
-	Volterra, Italy
-		conference organizer, instructor
-		“Principles of NMR”
+Brigham Young University; Provo, UT.
 
-	Experimental NMR Conference; Asilomar, California
-		poster submission
-		“Advancements in Stray-field NMR Relaxometry in Testing of Pipes, Soil, and Paintings”
+Georgetown University; Washington, DC.
 
-2012	EUROMAR World Wide Magnetic Resonance Conference; Dublin, Ireland
-		poster presenter, travel stipend award recipient
-		“Contact-free Investigations of Master Paintings Using Single-sided NMR”
+_departmental seminar talks, applications of single-sided NMR in cultural heritage research_
 
-	Gordon Conference, Scientific Methods in Cultural Heritage Research; West Dover, Vermont
-		poster presenter, travel stipend award recipient
-		“Contact-free Investigations of Master Paintings Using Single-sided NMR”
+`2015`
 
-2011	Leibniz Institut für Molekulare Pharmakologie, Berlin
-		invited speaker
-		“Optimization of CEST Contrast in Hyperpolarized Xenon Systems”
+Harvard Art Museums; Cambridge, MA.
+_Instructor at workshop on applications of single-sided magnetic resonance to cultural heritage problems_
 
-2010	EUROMAR World Wide Magnetic Resonance Conference; Florence, Italy
-		promoted to oral presentation
-		“A Xenon-based Molecular Sensor Assembled on an MS2 Viral Capsid Scaffold”
+Experimental NMR Conference; Asilomar, CA.
+_poster submission, T2–D Studies of Biomolecular Interactions Using Single-sided NMR_
 
-2009	Gordon Conference, Magnetic Resonance; Biddeford, Maine
-		poster presenter, travel stipend award recipient
-		“Application of Multiple-pulse Saturation Transfer Sequences in hp-129Xe NMR”
+SE/SW Joint Regional Meeting of the American Chemical Society; Memphis, TN.
+_poster submissions (3): Characterization of historical lime mortar using single-sided nuclear magnetic resonance. Ultrafast two-dimensional relaxometry with single-sided NMR. Monitoring the development of intermolecular networks during the curing of coatings using single-sided NMR._
 
-2009	Experimental NMR Conference; Asilomar, California
-		poster presenter
-		“Multiplexing with Xenon Biosensors in a Macroscopically Homogeneous Phase”
+`2014`
 
-2008	International Society for Magnetic Resonance in Medicine; Toronto, Canada
-		poster presenter, travel stipend award recipient
-		“Optimization of Xenon Biosensors for Increased Sensitivity”
+The Non-Invasive Analysis of Painted Surfaces: Scientific Impact and Conservation Practice; 		Washington, D.C.
+_Evidence for the accumulative effect of organic solvent treatments on paintings and what to do about it: A case study of two ‘identical’ 17th century paintings with single-sided NMR_
 
-	Experimental NMR Conference; Asilomar, California
-		poster presenter
-“Temperature Response of Functionalized Xenon Biosensors and Its Application to Ultra-sensitive NMR Detection” 
+[presentation available online](http://youtu.be/qDee6QUc0gg)
+
+`2013`
+
+New techniques for the non-invasive investigation of the surface and subsurface structure of 		heritage objects; Toruń, Poland.
+_invited speaker, Of MOUSE and Men: Single-sided NMR in Cultural Heritage_
+
+Ampere Summer School in Analyzing Cultural Heritage Using Portable Magnetic Resonance; Volterra, Italy.
+_conference organizer and instructor, “Principles of NMR”_
+
+Experimental NMR Conference; Asilomar, California.
+_poster submission, Advancements in Stray-field NMR Relaxometry in Testing of Pipes, Soil, and Paintings_
+
+`2012`
+
+EUROMAR World Wide Magnetic Resonance Conference; Dublin, Ireland.
+_poster presenter, travel stipend award recipient: "Contact-free Investigations of Master Paintings Using Single-sided NMR”_
+
+Gordon Conference, Scientific Methods in Cultural Heritage Research; West Dover, Vermont.
+_poster presenter, travel stipend award recipient: “Contact-free Investigations of Master Paintings Using Single-sided NMR”_
+
+`2011`
+
+Leibniz Institut für Molekulare Pharmakologie, Berlin.
+_invited speaker, “Optimization of CEST Contrast in Hyperpolarized Xenon Systems”_
+
+`2010`
+
+EUROMAR World Wide Magnetic Resonance Conference; Florence, Italy.
+_promoted to oral presentation, “A Xenon-based Molecular Sensor Assembled on an MS2 Viral Capsid Scaffold”_
+
+`2009`
+
+Gordon Conference, Magnetic Resonance; Biddeford, Maine.
+_poster presenter, travel stipend award recipient: “Application of Multiple-pulse Saturation Transfer Sequences in hp-129Xe NMR”_
+
+`2009`
+
+Experimental NMR Conference; Asilomar, California.
+_poster presenter, “Multiplexing with Xenon Biosensors in a Macroscopically Homogeneous Phase”_
+
+`2008`
+
+International Society for Magnetic Resonance in Medicine; Toronto, Canada.
+_poster presenter, travel stipend award recipient: “Optimization of Xenon Biosensors for Increased Sensitivity”_
+
+Experimental NMR Conference; Asilomar, California.
+_poster presenter, “Temperature Response of Functionalized Xenon Biosensors and Its Application to Ultra-sensitive NMR Detection”_
 
 
 ## Other professional contributions
