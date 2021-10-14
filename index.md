@@ -13,10 +13,10 @@ coffee, entropy, materials
 
 ## Currently
 
-Associate professor of chemistry at William & Mary
+Associate professor of <a href="https://www.wm.edu/as/chemistry/">chemistry</a> at <a href="https://www.wm.edu/">William & Mary</a>
 
 
-### Research interests
+## Research interests
 
 Materials, single-sided nuclear magnetic resonance, cultural heritage, data analysis
 
@@ -25,21 +25,48 @@ Materials, single-sided nuclear magnetic resonance, cultural heritage, data anal
 
 `2006-2011`
 __University of California, Berkeley__
+
 Lawrence Berkeley National Laboratory, Materials Sciences Division; Berkeley, California
 
 Ph.D., Chemistry; Dissertation: _Xenon-based Molecular Sensors in Analytical Applications_
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2004–2006`
+__Brigham Young University__
 
-- Sizar
+Provo, Utah
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+B.S., Biochemistry
 
 
+`1999–2001`
+__University of Colorado, Boulder__
+
+
+## Academic Positions
+
+`2020–present`
+__Associate Professor__
+
+Department of Chemistry; William & Mary
+
+`2013–2020`
+__Assistant Professor__
+
+Department of Chemistry; William & Mary
+
+`2011–2013`
+__Postdoctoral Research Fellow__
+
+RWTH Aachen University (Aachen, Germany)
+
+_Postdoctoral advisor: Prof. Bernhard Blümich_
+
+`2010`
+
+__Adjunct Faculty__
+Chemistry Department; Contra Costa College
+
+San Pablo, California
 
 ## Awards
 
