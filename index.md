@@ -103,7 +103,8 @@ Deutscher Akademischer Austauschdienst (DAAD) postdoctoral fellowship
 
 2015 [139]
 
-`Physical Chemistry (Quantum Mechanics and Spectroscopy)`
+`Physical Chemistry`
+`_Quantum Mechanics and Spectroscopy_`
 
 2021 [51]
 
@@ -223,6 +224,7 @@ CHEM 291 (Chemical Research; 3 students)
 
 CHEM 119 (Introductory Chemistry, Contra Costa Community College; 19 students) 
 -->
+
 
 ## Funded Fellowships and Grants
 
