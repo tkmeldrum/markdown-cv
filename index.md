@@ -93,16 +93,46 @@ Deutscher Akademischer Austauschdienst (DAAD) postdoctoral fellowship
 
 `Introductory Chemistry`
 
-2010 [19 students] _at Contra Costa Comnunity College_
+2010 [19 students] _at Contra Costa Community College_
 
 `General Chemistry`
 
-2013 [100 students], 2014 [150], 2015 [139]
+2013 [100]
+
+2014 [150]
+
+2015 [139]
+
+`Physical Chemistry (Quantum Mechanics and Spectroscopy)`
+
+2021 [51]
+
+`Physical Chemistry (Thermodynamics and Statistical Mechanics)`
+
+2017 [47]
+
+2018 [49]
+
+2019 [53]
+
+2020 [59]
+
+`Physical Chemistry for Life Sciences`
+
+2015 [9]
+
+2016 [24]
+
+2017 [14]
+
+2019 [23]
+
+`Physical Chemistry and Instrumental Analysis Laboratories`
+
+`Chemical Research`
 
 
-
-
-
+{>>
 `2021`
 
 CHEM 301 (Physical Chemistry I, 53 students)
@@ -192,6 +222,7 @@ CHEM 291 (Chemical Research; 3 students)
 `2010`
 
 CHEM 119 (Introductory Chemistry, Contra Costa Community College; 19 students) 
+<<}
 
 ## Funded Fellowships and Grants
 
